@@ -1,2 +1,2 @@
 # DrawingProgram
-JavaFx Drawing Program
+JavaFX Drawing Program
